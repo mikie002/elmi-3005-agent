@@ -1,4 +1,4 @@
-# eLmi 3005 — Global AI Construct Lab 01 (Single Agent)
+# eLmi 3005
 
 A pure-Python single-agent research & coding assistant with a retro Linux
 terminal GUI. Built for machines with **Windows Smart App Control (SAC)**
